@@ -38,9 +38,9 @@ Below are representatives of how the models should operate
 
 
 
-* ![**Object Diagram**](images/ObjectDiagram.png) The **Object Diagram ** provides the high level overview of components
+ ![**Object Diagram**](images/ObjectDiagram.png) The **Object Diagram ** provides the high level overview of components
 
-* ![**Class Diagram**](images/ClassDiagram.png) Whereas, the **Class Diagram ** provides details of how each component should work together
+ ![**Class Diagram**](images/ClassDiagram.png) Whereas, the **Class Diagram ** provides details of how each component should work together
 
 ## Smart City (My Problem) Simulation
 
@@ -51,4 +51,5 @@ I found an article that helps to define how one might simulate this process.[**(
 [**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
-Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
+Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) 
+![**Pots Diagram**](images/Pots.png)
