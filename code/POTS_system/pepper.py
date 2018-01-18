@@ -1,14 +1,13 @@
 import math
 from vegtable import vegtable
 
-class pepper(vegtable):
-    '''This is a string bean'''
+class distillery():
+    '''This is a distillery'''
 
-    def __init__(self, n, s, w, wet, c, a, b):
+    def __init__(self, b, e):
         '''Intializes the vegtable'''
-        self.length = 1.0  # start as baby string bean
-        self.radius = 0.3
-        vegtable.__init__(self,n, s, w, wet, c, a, b)
+        self.beverages = b
+        self.employees = e
 
 
     def Volume(self):
