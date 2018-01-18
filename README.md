@@ -34,18 +34,17 @@ By analyzing data sets about the weather, time of day, and public activities the
 Additional safety features are available upon request, including a video capturing device and a speaker with the capability of projecting or recording sound.
 
 ## Smart City (My Problem) Model
+Below are representatives of how the models should operate
 
-(remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
-(remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
 
-* [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
-* [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
-* [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
-* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
+
+* ![**Object Diagram**](images/ObjectDiagram.png) The **Object Diagram ** provides the high level overview of components
+
+* ![**Class Diagram**](images/ClassDiagram.png) Whereas, the **Class Diagram ** provides details of how each component should work together
 
 ## Smart City (My Problem) Simulation
 
-(remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
+I found an article that helps to define how one might simulate this process.[**(Link here)**](analysis/StreetLightinginSmartCities.pdf) 
 
 
 ## Smart City (My Problem) Model
