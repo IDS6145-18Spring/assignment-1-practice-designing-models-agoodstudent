@@ -1,1 +1,46 @@
+class Lamp
 
+    def__init_(self)
+    '''hardware containing bulb and cover'''
+
+    def bulb(self):
+        '''device that lights the streets'''
+        return none
+
+    def cover(self):
+        '''protects bulb from damage'''
+        return none
+
+class sensor:
+    '''This is part of a smart street light'''
+
+    def __init__(self):
+        '''Intializes the light'''
+        
+
+    def Detect_Movement(self):
+        '''The range of movement the sensor can detect'''
+        return none
+
+    def Send_Signal(self):
+        '''This is how a sensor relays information'''
+        return none
+        
+class Network:
+
+
+    def __init__(self):
+        '''Distributes data across broadband'''
+        
+
+    def Receive Signal(self):
+        '''Ability to receive messages from sensors and other inputs'''
+        return none
+
+    def Send_Signal(self):
+        '''This is how the network relays information'''
+        return none
+
+    def Process_Data (self):
+        '''Internal CPU and the cloud work to build better network'''
+        return none
